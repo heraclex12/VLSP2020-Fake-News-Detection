@@ -38,6 +38,7 @@
 ## About The Project
 In this project, we finetune multiple pre-trained language models such as vELECTRA, vBERT, PhoBERT, Bert Multilingual Cased, XLM-RoBERTa to identify reliable SNS.
 
+We evaluate the different input length models, it includes 256, 512, and multiple 512-paragraph (long document)
 
 ### Prerequisites
 
