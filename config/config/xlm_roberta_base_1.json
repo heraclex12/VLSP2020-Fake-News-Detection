@@ -1,0 +1,8 @@
+{
+  "model_type": "XLM_ROBERTA",
+  "model_name": "xlm-roberta-base",
+  "max_seq_length": 512,
+  "use_wordsegment": false,
+  "remove_punc_stopword": false,
+  "output_model": "xlm_base_1"
+}

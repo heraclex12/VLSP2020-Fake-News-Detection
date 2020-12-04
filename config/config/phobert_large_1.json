@@ -1,0 +1,8 @@
+{
+  "model_type": "ROBERTA",
+  "model_name": "vinai/phobert-large",
+  "max_seq_length": 256,
+  "use_wordsegment": true,
+  "remove_punc_stopword": false,
+  "output_model": "phobert_large_1"
+}
