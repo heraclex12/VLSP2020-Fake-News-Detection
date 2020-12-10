@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ### Data
 
-The dataset is provided by VLSP2020 Organizers. Please access [https://vlsp.org.vn/vlsp2020/eval/reintel](this site) for more information. 
+The dataset is provided by VLSP2020 Organizers. Please access [this site](https://vlsp.org.vn/vlsp2020/eval/reintel) for more information. 
 
 <!-- CONTACT -->
 ## Contact
