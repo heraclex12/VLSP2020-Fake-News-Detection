@@ -27,7 +27,7 @@
   <h3 align="center">VLSP2020: Fake News Detection</h3>
 
   <p align="center">
-    Finetune multiple pre-trained Transformer-based models to solve Vietnamese Fake News Detection problem (ReINTEL) in VLSP2020 shared task.
+    Fine-tune a variety of pre-trained Transformer-based models to solve Vietnamese Reliable Intelligent Identification (ReINTEL) problem in VLSP2020 shared task.
     <br />
   </p>
 </p>
@@ -36,13 +36,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-In this project, we finetune multiple pre-trained language models such as vELECTRA, vBERT, PhoBERT, Bert Multilingual Cased, XLM-RoBERTa to identify reliable SNS.
+In this project, we utilize the effectiveness of the different pre-trained language models such as vELECTRA, vBERT, PhoBERT, Bert Multilingual Cased, XLM-RoBERTa to identify reliable information shared on social network sites.
 
-We evaluate the different input length models, it includes 256, 512, and multiple 512-paragraph (long document)
+We evaluate the different input length models, it includes 256, 512, and multiple 512 (long document)
 
 ### Prerequisites
 
-To reproduce the experiment of our model, please install the requirements.txt:
+To reproduce the experiment of our model, please install the requirements.txt according to the following instructions:
 * huggingface transformer
 * emoji
 * vncorenlp
@@ -52,6 +52,10 @@ To reproduce the experiment of our model, please install the requirements.txt:
 ```sh
 pip install -r requirements.txt
 ```
+
+### Data
+
+The dataset is provided by VLSP2020 Organizers. Please access [https://vlsp.org.vn/vlsp2020/eval/reintel](this site) for more information. 
 
 <!-- CONTACT -->
 ## Contact
