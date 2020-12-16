@@ -65,6 +65,17 @@ Hieu Tran - heraclex12@gmail.com
 Project Link: [https://github.com/heraclex12/VLSP2020-Fake-News-Detection](https://github.com/heraclex12/VLSP2020-Fake-News-Detection)
 
 
+## Citation
+```
+@misc{tran2020leveraging,
+      title={Leveraging Transfer Learning for Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL)}, 
+      author={Trung-Hieu Tran and Long Phan and Truong-Son Nguyen},
+      year={2020},
+      eprint={2012.07557},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
